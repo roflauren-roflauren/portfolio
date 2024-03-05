@@ -423,8 +423,8 @@ b, strong {
 }
 .contact-form .form-control {
   background: transparent;
-  border-radius: 2px;
-  outline: none;
+  border-radius: 4px;
+  outline: 4px;
   box-shadow: none;
   font-weight: bold;
   margin: 16px 0;
